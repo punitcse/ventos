@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ventos
+  annotations:
+    github.com/project-slug: punitcse/ventos
+spec:
+  type: other
+  lifecycle: unknown
